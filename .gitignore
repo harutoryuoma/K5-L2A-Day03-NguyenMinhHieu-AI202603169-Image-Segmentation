@@ -4,3 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 data/**/groundtruth/
 data/_cache/
+<<<<<<< HEAD
+=======
+
+>>>>>>> ff14db6cb7606a9dd83ae25770a3d899bb14a827
